@@ -1,0 +1,18 @@
+# Project exclude paths
+/e3-cart/e3-cart-interface/target/
+/e3-cart/e3-cart-service/target/
+/e3-cart/e3-cart-web/target/
+/e3-content/e3-content-interface/target/
+/e3-content/e3-content-service/target/
+/e3-item-web/target/
+/e3-order/e3-order-interface/target/
+/e3-order/e3-order-service/target/
+/e3-order/e3-order-web/target/
+/e3-portal-web/target/
+/e3-search/e3-search-interface/target/
+/e3-search/e3-search-service/target/
+/e3-search/e3-search-web/target/
+/e3-sso/e3-sso-interface/target/
+/e3-sso/e3-sso-service/target/
+/e3-sso/e3-sso-web/target/
+/out/
