@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="e3-sso:war exploded">
+    <output-path>$PROJECT_DIR$/e3-sso/target/e3-sso</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="e3-sso" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.0.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.0.4" />
+          <element id="library" level="project" name="Maven: xalan:xalan:2.6.0" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/e3-sso/target/e3-sso/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="e3-sso/web/Web" />
+    </root>
+  </artifact>
+</component>
